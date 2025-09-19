@@ -8,9 +8,24 @@ Aqui estão algumas ideias para você começar:
 - 🌱 Atualmente estou aprendendo a programar, HTML, CSS, JS
 - 📫 Como entrar em contato comigo: raissa.d.fernandes@aluno.senai.br
 - ⚡ Curiosidade/diversão: Gosto de ouvir música enquanto programo, fã de séries e filmes, coleciono acessórios e coisas de moda.
--->
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+<i class="devicon-canva-original"></i>
+          
+          
+          
+
+
+
+
+
+
 
 ## Contatos:
 <div>
