@@ -15,7 +15,7 @@ Aqui estão algumas ideias para você começar:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-<i class="devicon-canva-original"> < width="40" height="40"/i>
+<i class="devicon-canva-original"> width="40" height="40"/i>
           
           
           
